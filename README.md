@@ -1,4 +1,4 @@
-# Local English Fluency Coach: Phi-3 Fine-Tuning & Ollama Deployment
+# Locally-hostable English Fluency Coach - {Phi-3 Fine-Tuning & Ollama Deployment}
 
 This repository contains the training script and configuration files to fine-tune a Phi-3-Mini model to act as a private English fluency coach. The model learns to detect common non-native English speaker mistakes, provide correct phrasing, and explain grammar rules simply.
 
